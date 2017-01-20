@@ -8,3 +8,5 @@ Second commit in superfetch branch
 Release 1.0 in release branch
 
 Change done in master branch - 1
+
+Change done in develop branch
